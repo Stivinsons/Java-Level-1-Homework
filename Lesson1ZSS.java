@@ -30,7 +30,7 @@ public class HomeWorkApp {
             System.out.println("Желтый");
         } else if (value > 100) {
             System.out.println("Зеленый");
-        }
+        
     }
     public static void compareNumbers(){
         int a = 45313;
@@ -42,4 +42,4 @@ public class HomeWorkApp {
         }
     }
 }
-
+//
